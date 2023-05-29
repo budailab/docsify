@@ -1,5 +1,5 @@
-# 呆呆
+# hello world
 
-> 你是呆呆
+> 你好，世界
 
 [Doscify](https://docsify.js.org/#/zh-cn/)
