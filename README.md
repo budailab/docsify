@@ -4,6 +4,6 @@
 > 这里是budai-lab
 
 ---
-`v-00096`
+`v-00097`
 
 [Doscify](https://docsify.js.org/#/zh-cn/)
