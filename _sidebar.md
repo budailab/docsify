@@ -1,5 +1,4 @@
 * [首页](/)
 
-* [TEST](/GK/)
-* [FDY](/fudaoyuan/README.md)
+* [FDY](/FDY/README.md)
 * [收藏夹](Favorites/favorites)
